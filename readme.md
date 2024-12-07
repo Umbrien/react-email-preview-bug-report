@@ -1,6 +1,6 @@
-# React Email Starter
+# React Email Bug report
 
-A live preview right in your browser so you don't need to keep sending real emails during development.
+Report for [#1806](https://github.com/resend/react-email/issues/1806)
 
 ## Getting Started
 
